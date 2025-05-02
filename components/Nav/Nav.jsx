@@ -11,9 +11,9 @@ const Nav = () => {
   };
 
   return (
-    <nav className="nav">
-      <div className="logo ">
-        <Link className='text-white text-xl pl-3' href="/">TRAVEL +<br />RESERVATION</Link>
+    <nav className="nav px-3">
+      <div className="logo pl-3 ">
+        <Link className='text-white text-xl ' href="/">TRAVEL +<br />RESERVATION</Link>
       </div>
       <button
         className="hamburger"
