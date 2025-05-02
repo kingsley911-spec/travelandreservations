@@ -37,7 +37,7 @@ export default function ContactUs() {
 
       {/* <!-- Team Image --> */}
       <div className="team-image">
-        <img src="image/travel+leisure contact team.jpg" alt="Your Travel + Reservation Team" />
+        <img src="image/Travel+leisurecontactteam.jpg" alt="Your Travel + Reservation Team" />
       </div>
 
     </div>
